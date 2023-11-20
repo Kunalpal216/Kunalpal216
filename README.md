@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Kunal Pal</h1>
-<h2 align="center">This is my new account (My old account with good stats: <a href="https://github.com/Kunalpal215">Kunalpal215 Github</a>)</h2>
+<h1 align="center">This is my new account (My old account with good stats: <a href="https://github.com/Kunalpal215">Kunalpal215 Github</a>)</h1>
 
 - 🔭 I’m currently working as General Secretary of Students-web-committee (IIT Guwahati)
 
@@ -8,6 +8,8 @@
 - 👯 I’m looking to collaborate on **App & Web development projects**
 
 - 💬 Ask me about **My Tech Stack**
+
+
 
 - 📫 How to reach me **Kunalpal216@gmail.com or k.pal@iitg.ac.in**
 
